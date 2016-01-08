@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     @IBAction func tapItbB(sender: AnyObject) {
         print("eyy lmao")
-        print("eyy')
+        print("eyy lmao, lmao")
         
     }
 
